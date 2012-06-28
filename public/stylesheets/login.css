@@ -1,0 +1,60 @@
+#login{
+	background: url('/public/images/patch/agrid.gif');
+	height: 100%;
+}
+
+#login #banner{
+	padding: 10px 0;
+	width: 100%;
+}
+
+#login #banner #logo{
+	display: inline-block;
+	width: 350px;
+	height: 60px;
+	margin-left: 2%;
+	float: left;
+	background: url('/public/images/logo/logo.png');
+}
+
+#login #banner #main-tabs{
+	float: right;
+	margin-right: 2%;
+	padding: 10px;
+	font-family: typewriter;
+	font-size: 18px;
+}
+
+#login #banner #main-tabs .menu{
+	list-style-type: none;
+}
+
+#login #banner #main-tabs .menu .option{
+	float: left;
+}
+
+#login #banner #main-tabs .menu .option a{
+	text-decoration: none;
+	padding: 10px;
+	margin: 0 5px;
+	color: #000;
+}
+
+#login #banner #main-tabs .menu .option a:hover{
+	color: #0192DD;
+}
+
+#login #banner #main-tabs .menu .signup a{
+	font-family: Arial,Tahoma, Verdana;
+	font-size:14px;
+	background: #00a6fc;
+	color: #fff;
+	font-weight: bold;
+	border-radius: 3px;
+	margin: 0 20px;
+}
+
+#login #banner #main-tabs .menu .signup a:hover{
+	background: #0192DD;
+	color: #fff;
+}

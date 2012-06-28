@@ -1,0 +1,44 @@
+{
+	"home" : {
+		"title" : "HOME",
+		"value" : "home",
+		"view_file" : "/public/views/login/home/home.html",
+		"css_file" : "/public/stylesheet/home.css",
+		"js_file" : "/public/javascripts/home.js"
+	},
+	"about" : {
+		"title" : "ABOUT",
+		"value" : "about",
+		"view_file" : "/public/views/login/about/about.html",
+		"css_file" : "/public/stylesheet/about.css",
+		"js_file" : "/public/javascripts/about.js"
+	},
+	"features" : {
+		"title" : "FEATURES",
+		"value" : "features",
+		"view_file" : "/public/views/login/features/features.html",
+		"css_file" : "/public/stylesheet/features.css",
+		"js_file" : "/public/javascripts/features.js"
+	},
+	"pricing" : {
+		"title" : "PRICING",
+		"value" : "pricing",
+		"view_file" : "/public/views/login/pricing/pricing.html",
+		"css_file" : "/public/stylesheet/pricing.css",
+		"js_file" : "/public/javascripts/pricing.js"
+	},
+	"contact" : {
+		"title" : "CONTACT",
+		"value" : "contact",
+		"view_file" : "/public/views/login/contact/contact.html",
+		"css_file" : "/public/stylesheet/contact.css",
+		"js_file" : "/public/javascripts/contact.js"
+	},
+	"signup" : {
+		"title" : "SIGNUP",
+		"value" : "signup",
+		"view_file" : "/public/views/login/signup/signup.html",
+		"css_file" : "/public/stylesheet/signup.css",
+		"js_file" : "/public/javascripts/signup.js"
+	}
+}
